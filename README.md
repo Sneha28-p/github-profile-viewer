@@ -21,7 +21,7 @@ A simple and responsive web app to search and view **GitHub user profiles** usin
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
 - GitHub API
 
 ## 📦 Installation & Usage
