@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(217, 232, 233);
+}
+
+.outer {
+  width: 400px;
+  border: 2px solid black;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  background: #9cd0d1;
+  border-radius: 10px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+div input {
+  background-color: rgb(211, 243, 253);
+  border-radius: 5px;
+  border: 1px solid #333;
+  padding: 8px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+  width: 100px;
+  padding: 6px;
+  border-radius: 5px;
+  border: none;
+}
+
+button:hover {
+  background: #444c56;
+  color: white;
+}
+
+#profile {
+  margin-top: 15px;
+}
