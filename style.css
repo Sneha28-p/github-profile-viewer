@@ -41,3 +41,7 @@ button:hover {
 #profile {
   margin-top: 15px;
 }
+.avatar{
+  border-radius: 50%;
+  width: 120px;
+}
