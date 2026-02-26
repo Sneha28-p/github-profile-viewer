@@ -28,3 +28,13 @@ A simple and responsive web app to search and view **GitHub user profiles** usin
 1. Clone this repository:
    ```bash
    git clone https://github.com/Sneha28-p/github-profile-viewer.git
+
+## 👩‍💻 Author
+
+Sneha Patted  
+GitHub: https://github.com/Sneha28-p  
+LinkedIn: https://www.linkedin.com/in/sneha-patted-108271338
+
+---
+
+⭐ If you found this project helpful, feel free to give it a star!
